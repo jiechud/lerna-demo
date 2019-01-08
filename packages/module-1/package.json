@@ -1,5 +1,5 @@
 {
-  "name": "module-1",
+  "name": "q-module-1",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,6 @@
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
-  }
+  },
+  "gitHead": "2613f96d238a1794288dfbe001e5052d8d856528"
 }
