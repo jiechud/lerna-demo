@@ -1,7 +1,7 @@
 {
   "name": "root",
   "scripts": {
-    "publish-l": "lerna publish --conventional-commits --no-git-reset"
+    "publish-l": "lerna publish --conventional-commits"
   },
   "devDependencies": {
     "lerna": "^3.14.1"

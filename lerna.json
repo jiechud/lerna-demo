@@ -3,9 +3,9 @@
     "packages/*"
   ],
   "version": "independent",
-  "commands": {
-    "publish": {
-      "message": "chore(release): publish %v"
+  "command": {
+    "version": {
+      "exact": true
     }
   }
 }
