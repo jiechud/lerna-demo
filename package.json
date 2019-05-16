@@ -3,7 +3,6 @@
   "scripts": {
     "publish-l": "lerna publish --conventional-commits"
   },
-  "private": true,
   "devDependencies": {
     "lerna": "^3.14.1"
   }
